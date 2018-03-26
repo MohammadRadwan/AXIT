@@ -1,0 +1,29 @@
+
+/* Color */
+nav .navbar-brand span,
+header .overlay .desc h1 span,
+header .overlay .desc button,
+header .overlay .form h2 span,
+.sublist .media i,
+.awesome .feat i 
+{ color: #ff8b38 }
+
+/* Border */
+header .overlay .desc button,
+.tabs .tab-content button,
+.sublist .media i,
+.awesome .feat i,
+.content button,
+.scroll i
+{ border: 1px solid #ff8b38 }
+
+.price .feat .price-head { border-bottom: 5px solid #ff8b38  }
+
+/* Background */
+header .overlay .form button,
+.tabs .tab-content button,
+h3:after,
+.tabs .dynaminc-tabs ul li.active,
+.content button,
+.scroll i 
+{ background-color: #ff8b38 }
