@@ -1,4 +1,4 @@
-# AXIT (2017)
+# AXIT
 Its a Landing Page Created in (2017).
 
 ## Technologies Used:
