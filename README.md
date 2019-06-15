@@ -1,4 +1,4 @@
-# Landing-Page-2017
+# AXIT-Landing-Page-2017
 Its and Old Landing Page Created in (2017).
 
 ## Technologies Used:
